@@ -1,2 +1,1 @@
-# israeli-strikes-in-syria
-Statistics of Israeli strikes in Syria in 2013-2020 years
+Analysis and analytics of Israeli strikes in Syria
